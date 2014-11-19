@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? kappa? 
-=======
 kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! kappa! 
->>>>>>> 86b7cce059b3b3b560757f99a6fb2577ff39e8d2
-kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa 
+kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa
 kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa 
 kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa 
 kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa kappa 
